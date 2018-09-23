@@ -1,7 +1,7 @@
-<!-- Index Page | Created Month 1, YYYY | Nick Elder -->
+<!-- Index Page | Created 2018 | Nick Elder -->
 <html>
 	<head>
-		<title>Index Page</title>
+		<title>Nick Elder</title>
 		<?php //Include standard head content.
 			require_once("components/head.php");
 		?>
@@ -18,15 +18,19 @@
 
 			<span style="float:right;width:65%;padding:50px;padding-left:80px;padding-top:30px;">
 				<h1>Ahoy internet surfer!</h1>
-				<p style="line-height:30px;">
+				<p style="line-height:30px;margin-bottom:30px;">
 				My name is Nick. I'm a creative who likes <span class="highlight">design</span>, <span class="highlight">technology</span>, and <span class="highlight">entrepreneurship</span>. I currently study Computer Science and Business Administration at Western University and previously worked as a <span class="highlight">Prouct Manager Intern</span> at <a style="font-weight:600;" href="https://www.hubdoc.com">Hubdoc</a>.
 				</p>
+
+				<a href="mailto:nickelderstudios@gmail.com"><span class="action_button"><i class="far fa-envelope"></i> &nbsp;&nbsp;Avalibile for Projects</span></a><br>
+				<!--<i>Specalizations: MVPs, Full Stack Web, Design</i>-->
+
 			</span>
 		</div>
 
 
 		<!-- Projects -->
-		<div class="content_container" style="margin-top:120px;">
+		<div class="content_container" style="margin-top:100px;">
 			<h1 style="text-align:center;margin-bottom:100px">Featured Projects</h1>
 
 
@@ -37,7 +41,9 @@
 					<div class="photo"><span style="background:url('img/hackwestern.png') center center no-repeat;background-size:contain;">&nbsp;</span></div>
 					<div class="desc" style="background-color:#684998;">
 						<div class="title">Hack Western</div>
-						<div class="subtitle">Design | 2016 - 2018</div>
+						<div class="subtitle">Design | 2016 - 2018 <!--
+							<span style="float:right;"><i class="far fa-plus-square"></i></span>-->
+						</div>
 					</div></a>
 				</div>
 			</span>
@@ -49,7 +55,9 @@
 					<div class="photo"><span style="background:url('img/niku.png') center center no-repeat;background-size:contain;">&nbsp;</span></div>
 					<div class="desc" style="background-color:#D64547;">
 						<div class="title">NIKU Farms</div>
-						<div class="subtitle">Freelance Dev/Design | 2018</div>
+						<div class="subtitle">Freelance Dev/Design | 2018 <!--
+							<span style="float:right;"><i class="fas fa-external-link-alt"></i></span>-->
+						</div>
 					</div></a>
 				</div>
 			</span>
@@ -106,13 +114,45 @@
 
 
 		<!-- Articles -->
-		<div class="content_container" style="margin-top:120px;">
-			<h1 style="text-align:center;margin-bottom:100px">Writing</h1>
+		<div class="content_container" style="margin-top:100px;">
+			<h1 style="text-align:center;margin-bottom:100px">Research & Writing</h1>
 
-		</div>
+			<!-- Scholars Research -->
+			<span class="project_card_container">
+				<div class="project_card">
+					<a href="nlp_research.pdf">
+					<div class="photo"><span style="background:url('img/nlp.png') center center no-repeat;background-size:contain;">&nbsp;</span></div>
+					<div class="desc" style="background-color:#F2BE34;">
+						<div class="title">NLP Research</div>
+						<div class="subtitle">Academic | 2016 - 2017</div>
+					</div></a>
+				</div>
+			</span>
 
-		<div>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<!-- Motivation -->
+			<span class="project_card_container">
+				<div class="project_card">
+					<a href="nlp_research.pdf">
+					<div class="photo"><span style="background:url('img/.png') center center no-repeat;background-size:contain;">&nbsp;</span></div>
+					<div class="desc" style="background-color:#;">
+						<div class="title">On Motivation</div>
+						<div class="subtitle">Academic | 2018</div>
+					</div></a>
+				</div>
+			</span>
+
+			<!-- Collaboration -->
+			<span class="project_card_container">
+				<div class="project_card">
+					<a href="nlp_research.pdf">
+					<div class="photo"><span style="background:url('img/.png') center center no-repeat;background-size:contain;">&nbsp;</span></div>
+					<div class="desc" style="background-color:#;">
+						<div class="title">On Collaboration</div>
+						<div class="subtitle">Personal | 2018</div>
+					</div></a>
+				</div>
+			</span>
+
 		</div>
 
 
@@ -120,5 +160,6 @@
 		<?php
 		require_once('components/footer.php');
 		?>
+
 	</body>
 </html>
