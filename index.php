@@ -37,7 +37,7 @@
 			<!-- Hack Western -->
 			<span class="project_card_container">
 				<div class="project_card">
-					<a href="hackwestern.php">
+					<a href="https://hackwestern.elder.ca">
 					<div class="photo"><span style="background:url('img/hackwestern.png') center center no-repeat;background-size:contain;">&nbsp;</span></div>
 					<div class="desc" style="background-color:#684998;">
 						<div class="title">Hack Western</div>
@@ -129,23 +129,23 @@
 				</div>
 			</span>
 
-			<!-- Motivation -->
+			<!-- Motivation (customized, dont reuse) -->
 			<span class="project_card_container">
 				<div class="project_card">
-					<a href="nlp_research.pdf">
-					<div class="photo"><span style="background:url('img/.png') center center no-repeat;background-size:contain;">&nbsp;</span></div>
+					<a href="https://medium.com/@nelder/success-and-sustained-innovation-through-intelligent-individual-incentives-7c2904067ee0">
+					<div class="photo"><span style="background:url('img/lincoln.jpg') center center no-repeat;background-size:cover;">&nbsp;</span></div>
 					<div class="desc" style="background-color:#;">
-						<div class="title">On Motivation</div>
-						<div class="subtitle">Academic | 2018</div>
+						<div class="title">Employee Motivation</div>
+						<div class="subtitle">Personal | 2018</div>
 					</div></a>
 				</div>
 			</span>
 
-			<!-- Collaboration -->
+			<!-- Collaboration (customized, dont reuse) -->
 			<span class="project_card_container">
 				<div class="project_card">
-					<a href="nlp_research.pdf">
-					<div class="photo"><span style="background:url('img/.png') center center no-repeat;background-size:contain;">&nbsp;</span></div>
+					<a href="https://medium.com/@nelder/collaboration-key-learnings-from-a-team-puzzle-2f124a0a2922">
+					<div class="photo"><span style="background:url('img/collab.jpg') center center no-repeat;background-size:cover;">&nbsp;</span></div>
 					<div class="desc" style="background-color:#;">
 						<div class="title">On Collaboration</div>
 						<div class="subtitle">Personal | 2018</div>

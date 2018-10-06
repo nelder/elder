@@ -26,6 +26,7 @@
 		<a href="https://www.linkedin.com/in/nicholas-elder/" class="footer_link"><i class="fab fa-linkedin-in"></i></a>
 		<a href="https://dribbble.com/nelder" class="footer_link"><i class="fab fa-dribbble"></i></a>
 		<a href="https://github.com/nelder/" class="footer_link"><i class="fab fa-github"></i></a>
+		<a href="https://medium.com/@nelder" class="footer_link"><i class="fab fa-medium"></i></a>
 		<a href="https://angel.co/nelder" class="footer_link"><i class="fab fa-angellist"></i></a>
 		<a href="https://www.producthunt.com/@nckelder" class="footer_link"><i class="fab fa-product-hunt"></i></a>
 	</span>

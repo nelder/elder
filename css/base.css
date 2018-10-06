@@ -6,6 +6,10 @@ body{
 	padding-left:40px;
 	padding-right:40px;
 	padding-top:65px;
+	/* Make type rendering look crisper */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
 }
 	*, *:before, *:after{
 	-webkit-box-sizing: border-box;
