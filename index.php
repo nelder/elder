@@ -22,7 +22,7 @@
 				My name is Nick. I'm a creative who likes <span class="highlight">design</span>, <span class="highlight">technology</span>, and <span class="highlight">entrepreneurship</span>. I currently study Computer Science and Business Administration at Western University and previously worked as a <span class="highlight">Prouct Manager Intern</span> at <a style="font-weight:600;" href="https://www.hubdoc.com">Hubdoc</a>.
 				</p>
 
-				<a href="mailto:nickelderstudios@gmail.com"><span class="action_button"><i class="far fa-envelope"></i> &nbsp;&nbsp;Avalibile for Projects</span></a><br>
+				<a href="mailto:nickelderstudios@gmail.com"><span class="action_button"><i class="far fa-envelope"></i> &nbsp;&nbsp;Available for Projects</span></a><br>
 				<!--<i>Specalizations: MVPs, Full Stack Web, Design</i>-->
 
 			</span>
